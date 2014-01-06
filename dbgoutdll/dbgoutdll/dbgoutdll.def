@@ -1,0 +1,7 @@
+; dbgoutdll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "dbgoutdll"
+
+EXPORTS
+    ; Explicit exports can go here
+    DbgOutStr @1
