@@ -1,12 +1,10 @@
 // File: DbgOut.h
 //
 
-
-
 #ifndef DBGOUT_H_D7274660_0C36_11d2_9253_0000C06932AE__INCLUDED_
 #define DBGOUT_H_D7274660_0C36_11d2_9253_0000C06932AE__INCLUDED_
 
-static  LPCTSTR    g_dbgOut                = _T("DebugOutput      © EJOR, 1998");
+static  LPCTSTR    g_dbgOut                = _T("DebugOutput      Â© EJOR, 1998");
 static  LPCTSTR    g_dbgOutwindowClassName = _T("EJOR DebugOut Window");
 
 
